@@ -4,12 +4,12 @@
 	"description": "Cloned PHP SDK for PayMaya APIs. Accept credit and debit card payments on your web app.",
 	"keywords": ["paymaya", "payments", "rest", "sdk"],
 	"license": "MIT",
-	"homepage": "https://github.com/PayMaya/PayMaya-PHP-SDK",
+	"homepage": "https://github.com/jomaf1010/PayMaya-PHP-SDK",
 	"authors": [
 		{
-			"name": "---",
-			"email": "---",
-			"homepage": "---"
+			"name": "Joseph John Fontanilla",
+			"email": "fontanillajosephjohn@gmail.com",
+			"homepage": "gdcloudservices.com"
 		}
 	],
 	"require": {
